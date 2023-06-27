@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Ventas_Cordobas
 {
-    public partial class Form1 : Form
+    public partial class FormUsuario : Form
     {
-        public Form1()
+        public FormUsuario()
         {
             InitializeComponent();
         }
